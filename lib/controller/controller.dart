@@ -9,3 +9,7 @@ class InventoryController extends GetxController {
   TextEditingController txtCategory = TextEditingController();
   TextEditingController txtQuantity = TextEditingController();
 }
+
+// --------------------------------
+
+//------------------------------
